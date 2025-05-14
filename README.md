@@ -71,3 +71,8 @@ A professional system monitoring dashboard for Windows 11 that displays real-tim
    ```bash
    git clone https://github.com/Prince-Kwakye/WindowsMonitor.git
    cd WindowsMonitor
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Author
+Prince Kwakye(https://github.com/Prince-Kwakye)
