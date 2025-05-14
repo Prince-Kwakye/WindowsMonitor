@@ -55,7 +55,7 @@ A professional system monitoring dashboard for Windows 11 that displays real-tim
 *Responsive mobile layout*
 
 ![Network Monitoring](./screenshots/process-view.png)
-*Process activity visualization*
+*Process activity visualization in light-mode*
 
 ## Getting Started
 
