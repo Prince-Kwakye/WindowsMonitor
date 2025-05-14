@@ -69,5 +69,5 @@ A professional system monitoring dashboard for Windows 11 that displays real-tim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Prince-Kwakye/windows11-dashboard.git
-   cd windows11-dashboard
+   git clone https://github.com/Prince-Kwakye/WindowsMonitor.git
+   cd WindowsMonitor
