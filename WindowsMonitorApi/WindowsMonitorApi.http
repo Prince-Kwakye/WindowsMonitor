@@ -1,0 +1,6 @@
+@WindowsMonitorApi_HostAddress = http://localhost:5143
+
+GET {{WindowsMonitorApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
